@@ -36,7 +36,8 @@
 
 # Result
 
-The Positive and Negative Clamper circuits were successfully constructed and tested. 
-The positive clamper shifted the waveform upward by clamping the negative peaks to 0 V, 
-while the negative clamper shifted the waveform downward by clamping the positive peaks to 0 V. 
-Thus, both clampers operated correctly.
+RESULT:
+
+The RC Integrator and RC Differentiator circuits were implemented and tested successfully. 
+The RC Integrator produced a smooth integrated output, while the RC Differentiator generated a 
+sharp differentiated output. Thus, both RC circuits worked as expected.
