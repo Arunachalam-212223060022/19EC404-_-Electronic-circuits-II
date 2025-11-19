@@ -1,5 +1,5 @@
 ## Exp. No. 4
-**Date:**  
+**Date:**  25/10/25
 
 ## RC INTEGRATOR AND RC DIFFERENTIATOR
 <img width="486" height="664" alt="image" src="https://github.com/user-attachments/assets/9cd74d70-fbc8-41a1-9297-ac8f65775583" />
@@ -22,12 +22,21 @@
 
 # Tabulation
 
+![WhatsApp Image 2025-11-19 at 08 39 18_4ccc1b80](https://github.com/user-attachments/assets/102b753e-343b-495a-8110-36878e566ff0)
 
 # Graph
+
+![WhatsApp Image 2025-11-19 at 08 38 17_edf763e5](https://github.com/user-attachments/assets/4ae90e71-a3b0-4a84-89e8-aac773f16d08)
 
 
 # Sample images 
 
+![WhatsApp Image 2025-11-19 at 10 38 51_48c7ba13](https://github.com/user-attachments/assets/35af7e4c-eab0-4786-a814-d593367f9079)
+
 
 # Result
 
+The Positive and Negative Clamper circuits were successfully constructed and tested. 
+The positive clamper shifted the waveform upward by clamping the negative peaks to 0 V, 
+while the negative clamper shifted the waveform downward by clamping the positive peaks to 0 V. 
+Thus, both clampers operated correctly.
